@@ -5,4 +5,5 @@ def oxford_comma(array)
     statement = "#{statement}, and #{final_value}"
   else
     statement = final_value
+  end
 end
